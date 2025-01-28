@@ -1,1 +1,1 @@
-# .github
+# MJC - our coding journey
